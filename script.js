@@ -42,8 +42,3 @@ result = verifyString(string);
 
 if (result) console.log(`A letra 'a' aparece um total de ${result} vezes.`);
 else console.log(`A letra 'a' não aparece.`);
-  K = K + 1;
-  SOMA = SOMA + K;
-}
-
-console.log(SOMA);
